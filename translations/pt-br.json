@@ -1,1 +1,10 @@
-
+{
+  "Button1": "Botão",
+  "Tooltip1": "Dica útil",
+  "DisabledTooltip1": "Estou desativado!",
+  "Toggle1": "Ativar Recurso",
+  "Slider1": "Ajustar Velocidade",
+  "LanguageSelector": "Idioma",
+  "button_clicked": "Você clicou em um botão!",
+  "this_is_notification": "Esta é uma notificação"
+}
