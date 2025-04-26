@@ -1,0 +1,10 @@
+{
+  "Button1": "Button",
+  "Tooltip1": "Helpful tooltip",
+  "DisabledTooltip1": "I am disabled!",
+  "Toggle1": "Enable Feature",
+  "Slider1": "Adjust Speed",
+  "LanguageSelector": "Language",
+  "button_clicked": "You clicked a button!",
+  "this_is_notification": "This is a notification"
+}
