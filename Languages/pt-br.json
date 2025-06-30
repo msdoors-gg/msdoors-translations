@@ -80,5 +80,18 @@
   "toggle_esp_config_rainbow": "Esp Colorido"
   "toggle_esp_config_textsize": "Tamanho do Texto",
   "Slider_esp_config_outline": "Transparência do Contorno",
-  "toggle_esp_config_tracePos": "Posição do Tracer"
+  "toggle_esp_config_tracePos": "Posição do Tracer",
+  "toggle_visual_noambience": "Sem Ambiente",
+  "toggle_visual_NoWardobreVignette": "Sem Vinheta no Armário",
+  "slider_visual_brightness": "Brilho",
+  "toggle_visual_fullbright": "Brilho Total",
+  "toggle_visual_Nofog": "Sem Neblina",
+  "toggle_visual_antilag": "Anti-Lag",
+  "toggle_main_instantInteract": "Interação Instantânea",
+  "toggle_main_autoInteract": "Interação Automática",
+  "keybind_main_autoInteract": "Interação Automática",
+  "dropdowm_autointeract_ignorelist": "Lista de ignorados",
+  "toggle_main_autoLibrarySolver": "Solucionar biblioteca Automaticamente",
+  "notify_padlockcode": "Código do cadeado",
+  "notify_padlockcode_code": "Código do cadeado: %s"
 }
