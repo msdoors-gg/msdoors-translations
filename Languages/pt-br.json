@@ -44,4 +44,20 @@
   "toggle_mines_antiflood": "Não afundar no Dam Seek",
   "button_misc_revive": "Reviver",
   "button_misc_playagain": "Jogar Novamente"
+  "button_misc_returntolobby": "Retornar ao Lobby",
+  "notify_spawn_a60": "A-60 Spawnou!",
+  "notify_spawn_a120": "A-120 Spawnou!",
+  "notify_spawn_blitz": "Blitz Spawnou!",
+  "notify_spawn_rush": "Rush Spawnou!",
+  "notify_spawn_ambush": "Ambush Spawnou!",
+  "notify_spawn_eyes": "Eyes Spawnou!",
+  "notify_spawn_lookman": "Lookman Spawnou!",
+  "notify_spawn_jeffthekiller": "Jeff The Killer Spawnou!",
+  "notify_spawn_halt": "Halt na próxima sala!",
+  "notify_spawn_seek": "Seek Na próxima sala!",
+  "esp_objective_Key": "Chave",
+  "esp_objective_Lever": "Alavanca",
+  "esp_objective_KeyEletrical": "Chave",
+  "esp_objective_book": "Livro",
+  "esp_objective_BreakerBox": "Disjuntor"
 }
