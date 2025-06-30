@@ -59,5 +59,26 @@
   "esp_objective_Lever": "Alavanca",
   "esp_objective_KeyEletrical": "Chave",
   "esp_objective_book": "Livro",
-  "esp_objective_BreakerBox": "Disjuntor"
+  "esp_objective_BreakerBox": "Disjuntor",
+  "esp_objective_generator": "Gerador",
+  "esp_objective_gatebutton": "Botão do portão",
+  "esp_objective_fuse": "Fusível",
+  "esp_objective_minesanchor": "Torre",
+  "esp_objective_waterpump": "Bomba d'água",
+  "esp_objective_Toolshed": "Armário da tesoura",
+  "esp_door": "Porta",
+  "esp_door_opened": "Aberta",
+  "esp_door_locked": "Trancada",
+  "toggle_esp_objective": "Esp Objetivo",
+  "colorpicker_esp_objective": "Cor do Esp Objetivo",
+  "toggle_esp_entity": "Esp Entidades",
+  "colorpicker_esp_entity": "Cor do Esp Entidades",
+  "toggle_esp_door": "Esp Portas",
+  "colorpicker_esp_door": "Cor do Esp Portas",
+  "toggle_esp_config_tracers": "Traços",
+  "toggle_esp_config_arrows": "Setas",
+  "toggle_esp_config_rainbow": "Esp Colorido"
+  "toggle_esp_config_textsize": "Tamanho do Texto",
+  "Slider_esp_config_outline": "Transparência do Contorno",
+  "toggle_esp_config_tracePos": "Posição do Tracer"
 }
