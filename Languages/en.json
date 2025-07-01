@@ -141,5 +141,12 @@
   "toggle_menu_visiblemenu": "Visible Menu",
   "button_menu_unload": "Unload",
   "dropdown_menu_library": "Library",
-  "button_menu_reload": "Reload"
+  "button_menu_reload": "Reload",
+  "msdoors_system_alreadyloaded": "[ Msdoors ] Script already loaded!",
+  "toggle_menu_customcursor": "Custom Cursor",
+  "dropdown_menu_customcursor": "dpi scale",
+  "toggle_menu_menukeybind": "Shortcut menu",
+  "toggle_menu_discordwebhook": "• Send information that is occurring in the game\n to a specific chat on Discord.",
+  "inputext_webhook_link": "Webhook link",
+  "script_menu_addons_loadingnotices": "⚠️ Loading Warns"
 }
