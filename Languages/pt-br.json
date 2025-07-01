@@ -141,5 +141,12 @@
   "toggle_menu_visiblemenu": "Menu Visível",
   "button_menu_unload": "Descarregar",
   "dropdown_menu_library": "Biblioteca",
-  "button_menu_reload": "Recarregar"
+  "button_menu_reload": "Recarregar",
+  "msdoors_system_alreadyloaded": "[ Msdoors ] Script já carregado!",
+  "toggle_menu_customcursor": "Cursor Personalizado",
+  "dropdown_menu_customcursor": "Escala de dpi",
+  "toggle_menu_menukeybind": "Menu de atalhos",
+  "toggle_menu_discordwebhook": "• Enviar informações que estão ocorrendo\n no jogo em um chat\n específico no Discord.",
+  "inputext_webhook_link": "Link do webhook",
+  "script_menu_addons_loadingnotices": "⚠️ Avisos de Carregamento"
 }
