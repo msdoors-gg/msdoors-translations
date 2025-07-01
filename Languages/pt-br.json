@@ -43,7 +43,7 @@
   "toggle_mines_antiseekkickdoor": "Anti-Kickdoor",
   "toggle_mines_antiflood": "Não afundar no Dam Seek",
   "button_misc_revive": "Reviver",
-  "button_misc_playagain": "Jogar Novamente"
+  "button_misc_playagain": "Jogar Novamente",
   "button_misc_returntolobby": "Retornar ao Lobby",
   "notify_spawn_a60": "A-60 Spawnou!",
   "notify_spawn_a120": "A-120 Spawnou!",
@@ -77,7 +77,7 @@
   "colorpicker_esp_door": "Cor do Esp Portas",
   "toggle_esp_config_tracers": "Traços",
   "toggle_esp_config_arrows": "Setas",
-  "toggle_esp_config_rainbow": "Esp Colorido"
+  "toggle_esp_config_rainbow": "Esp Colorido",
   "toggle_esp_config_textsize": "Tamanho do Texto",
   "Slider_esp_config_outline": "Transparência do Contorno",
   "toggle_esp_config_tracePos": "Posição do Tracer",
