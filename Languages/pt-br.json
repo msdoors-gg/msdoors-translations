@@ -223,5 +223,8 @@
   "toggle_game_autositonrocket": "Auto Sentar no Foguete",
   "toggle_exploits_flingplayer": "Flingar Jogador",
   "toggle_exploits_focusparts": "Jogar Parts no jogador",
-  "dropdown_exploits_target": "Selecione um Alvo"
+  "dropdown_exploits_target": "Selecione um Alvo",
+  "slider_exploits_OrbitalParts_diatance": "Parts em Orbitação",
+  "slider_exploits_OrbitalParts_diatance": "Distância de Orbitação",
+  "slider_exploits_OrbitalParts_speed": "Velocidade de Orbitação"
 }
