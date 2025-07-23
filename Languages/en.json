@@ -76,7 +76,7 @@
   "esp_door_opened": "[Opened]",
   "esp_door_locked": "[Locked]",
   "toggle_esp_item": "Esp Item",
-  "colorpicker_esp_item": "ESP Item Color"
+  "colorpicker_esp_item": "ESP Item Color",
   "toggle_esp_objective": "ESP Objective",
   "colorpicker_esp_objective": "ESP Objective Color",
   "toggle_esp_entity": "ESP Entities",
