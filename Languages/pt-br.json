@@ -75,6 +75,8 @@
   "esp_door": "Porta",
   "esp_door_opened": "[Aberta]",
   "esp_door_locked": "[Trancada]",
+  "toggle_esp_item": "Esp Item",
+  "colorpicker_esp_item": "Cor do Esp Item",
   "toggle_esp_objective": "Esp Objetivo",
   "colorpicker_esp_objective": "Cor do Esp Objetivo",
   "toggle_esp_entity": "Esp Entidades",
