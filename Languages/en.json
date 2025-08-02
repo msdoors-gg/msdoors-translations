@@ -223,6 +223,7 @@
   "button_launchrocket_notify_notfoundrocket": "ROCKET NOT FOUND OR ALREADY LAUNCHED!",
   "toggle_exploits_secretstructures": "Secret Structures",
   "notify_visual_notifydisasters": "Disaster: ",
+  "gui_visual_titledisaster": "Disaster Detected",
   "toggle_visualnotify_warndisasters": "Warn Disasters",
   "toggle_visualnotify_warndisasters_chat": "Warn Disasters in Chat",
   "toggle_visual_notifyitemspawm": "Notify Items",
