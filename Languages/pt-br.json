@@ -223,6 +223,7 @@
   "button_launchrocket_notify_notfoundrocket": "FOGUETE NÃO ENCONTRADO OU JÁ LANÇADO!",
   "toggle_exploits_secretstructures": "Estruturas Secretas",
   "notify_visual_notifydisasters": "Desastre: ",
+  "gui_visual_titledisaster": "Desaste Detectado",
   "toggle_visualnotify_warndisasters": "Avisar Desastres",
   "toggle_visualnotify_warndisasters_chat": "Avisar Desastres no chat",
   "toggle_visual_notifyitemspawm": "Notificar itens",
