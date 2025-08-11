@@ -55,6 +55,7 @@
   "notify_spawn_ambush": "Ambush Spawned!",
   "notify_spawn_eyes": "Eyes Spawned!",
   "notify_spawn_lookman": "Lookman Spawned!",
+  "notify_spawn_surge": "Surge Spawned!",
   "notify_spawn_jeffthekiller": "Jeff The Killer Spawned!",
   "notify_spawn_halt": "Halt in the next room!",
   "notify_spawn_seek": "Seek in the next room!",
