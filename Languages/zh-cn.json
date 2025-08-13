@@ -75,6 +75,7 @@
   "esp_objective_waterpump": "水闸",
   "esp_objective_Toolshed": "剪刀",
   "esp_objective_lever": "拉杆",
+  "esp_objective_guillotine": "断头台",
   "esp_door": "门",
   "esp_door_opened": "[已开启]",
   "esp_door_locked": "[已锁定]",
