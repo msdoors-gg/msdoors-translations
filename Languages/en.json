@@ -76,6 +76,7 @@
   "esp_objective_waterpump": "Water Pump",
   "esp_objective_Toolshed": "Shears Cabinet",
   "esp_objective_lever": "Lever",
+  "esp_objective_guillotine": "guilhotina",
   "esp_door": "Door",
   "esp_door_opened": "[Opened]",
   "esp_door_locked": "[Locked]",
