@@ -76,6 +76,7 @@
   "esp_objective_waterpump": "Bomba d'água",
   "esp_objective_Toolshed": "Armário da tesoura",
   "esp_objective_lever": "Alavanca",
+  "esp_objective_guillotine": "guilhotina",
   "esp_door": "Porta",
   "esp_door_opened": "[Aberta]",
   "esp_door_locked": "[Trancada]",
