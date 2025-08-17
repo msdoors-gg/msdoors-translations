@@ -46,6 +46,8 @@
   "toggle_mines_antibridgefall": "Não Cair da ponte",
   "toggle_mines_antiseekkickdoor": "Anti-Kickdoor",
   "toggle_mines_antiflood": "Não afundar no Dam Seek",
+  "toggle_garden_antisurge": "Anti-Surge",
+  "toggle_mines_showseekpath": "Ver caminho do seek", 
   "button_misc_revive": "Reviver",
   "button_misc_playagain": "Jogar Novamente",
   "button_misc_returntolobby": "Retornar ao Lobby",
