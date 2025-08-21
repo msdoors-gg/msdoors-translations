@@ -48,6 +48,7 @@
   "toggle_mines_antiseekkickdoor": "Anti-Kickdoor",
   "toggle_mines_antiflood": "Não afundar no Dam Seek",
   "toggle_garden_antisurge": "Anti-Surge",
+  "toggle_garden_antisurge_method": "Método Anti-Surge",
   "toggle_mines_showseekpath": "Ver caminho do seek", 
   "button_misc_revive": "Reviver",
   "button_misc_playagain": "Jogar Novamente",
