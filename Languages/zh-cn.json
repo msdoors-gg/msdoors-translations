@@ -47,6 +47,7 @@
   "toggle_mines_antiseekkickdoor": "防Seek踢门",
   "toggle_mines_antiflood": "防Seek大坝伤害",
   "toggle_garden_antisurge": "防浪涌",
+  "toggle_garden_antisurge_method": "防喘振方法",
   "toggle_mines_showseekpath": "查看查找路径", 
   "button_misc_revive": "复活",
   "button_misc_playagain": "再玩一次",
