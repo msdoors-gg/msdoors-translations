@@ -65,6 +65,8 @@
   "notify_spawn_seek": "下一门有Seek！",
   "notify_spawn_glitchrush": "故障Rush已生成！",
   "notify_spawn_glitchambush": "故障Ambush已生成！",
+  "input_custom_entityspawn_message": "自定义生成消息",
+  "dropdown_select_entities": "需通知的实体",
   "notify_spawn_warngodmodedontworks": "无敌模式已无效！",
   "notify_spawn_warngodmodeworks": "无敌模式有效！",
   "esp_objective_Key": "钥匙",
