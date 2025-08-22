@@ -62,6 +62,8 @@
   "notify_spawn_lookman": "Lookman Spawned!",
   "notify_spawn_surge": "Surge Spawned!",
   "notify_spawn_jeffthekiller": "Jeff The Killer Spawned!",
+  "input_custom_entityspawn_message": "Custom Spawn Message",
+  "dropdown_select_entities": "Entities to be notified",
   "notify_spawn_halt": "Halt in the next room!",
   "notify_spawn_seek": "Seek in the next room!",
   "notify_spawn_glitchrush": "Glitched Rush Spawned!",
