@@ -254,5 +254,6 @@
   "dropdown_exploits_target": "选择目标",
   "slider_exploits_OrbitalParts_distance": "环绕建筑",  
   "slider_exploits_OrbitalParts_distance": "环绕距离",  
-  "slider_exploits_OrbitalParts_speed": "环绕速度"  
+  "slider_exploits_OrbitalParts_speed": "环绕速度",
+  "toggle_notification_oxygen": "通知氧气"
 }
