@@ -93,6 +93,8 @@
   "colorpicker_esp_entity": "实体ESP颜色",
   "toggle_esp_door": "门ESP",
   "colorpicker_esp_door": "门ESP颜色",
+  "toggle_esp_gold": "ESP黄金",
+  "colorpicker_esp_gold": "ESP 颜色金色",
   "toggle_esp_config_tracers": "追踪线",
   "toggle_esp_config_arrows": "箭头",
   "toggle_esp_config_rainbow": "彩虹ESP",
