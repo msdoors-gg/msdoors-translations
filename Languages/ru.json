@@ -94,6 +94,8 @@
   "colorpicker_esp_entity": "Цвет Текста Сущностей",
   "toggle_esp_door": "Двери",
   "colorpicker_esp_door": "Цвет Текста Дверей",
+  "toggle_esp_gold": "Золотой ЭСП",
+  "colorpicker_esp_gold": "Цвет золота",
   "toggle_esp_config_tracers": "Путь",
   "toggle_esp_config_arrows": "Стрелки",
   "toggle_esp_config_rainbow": "Радужный Текст",
