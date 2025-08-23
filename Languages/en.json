@@ -94,6 +94,8 @@
   "colorpicker_esp_entity": "ESP Entities Color",
   "toggle_esp_door": "ESP Doors",
   "colorpicker_esp_door": "ESP Doors Color",
+  "toggle_esp_gold": "Esp Gold",
+  "colorpicker_esp_gold": "ESP Color Gold",
   "toggle_esp_config_tracers": "Tracers",
   "toggle_esp_config_arrows": "Arrows",
   "toggle_esp_config_rainbow": "Rainbow ESP",
