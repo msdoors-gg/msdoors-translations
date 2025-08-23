@@ -255,5 +255,6 @@
   "dropdown_exploits_target": "Selecione um Alvo",
   "slider_exploits_OrbitalParts_diatance": "Parts em Orbitação",
   "slider_exploits_OrbitalParts_diatance": "Distância de Orbitação",
-  "slider_exploits_OrbitalParts_speed": "Velocidade de Orbitação"
+  "slider_exploits_OrbitalParts_speed": "Velocidade de Orbitação",
+  "toggle_notification_oxygen": "Notificar Oxigênio"
 }
