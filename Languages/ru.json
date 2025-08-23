@@ -255,5 +255,6 @@
   "dropdown_exploits_target": "Выбрать Цель:",
   "slider_exploits_OrbitalParts_distance": "Крутящиеся Вещи",  
   "slider_exploits_OrbitalParts_distance": "Дистанция",  
-  "slider_exploits_OrbitalParts_speed": "Скорость"  
+  "slider_exploits_OrbitalParts_speed": "Скорость",
+  "toggle_notification_oxygen": "Уведомить кислород"
 }
