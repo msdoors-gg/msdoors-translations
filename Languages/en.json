@@ -255,5 +255,6 @@
   "dropdown_exploits_target": "Select a Target",
   "slider_exploits_OrbitalParts_distance": "Orbiting Parts",  
   "slider_exploits_OrbitalParts_distance": "Orbit Distance",  
-  "slider_exploits_OrbitalParts_speed": "Orbit Speed"  
+  "slider_exploits_OrbitalParts_speed": "Orbit Speed",
+  "toggle_notification_oxygen": "Notificar Oxigênio"
 }
