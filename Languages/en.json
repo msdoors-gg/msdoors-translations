@@ -258,5 +258,20 @@
   "slider_exploits_OrbitalParts_distance": "Orbiting Parts",  
   "slider_exploits_OrbitalParts_distance": "Orbit Distance",  
   "slider_exploits_OrbitalParts_speed": "Orbit Speed",
-  "toggle_notification_oxygen": "Notify Oxygen"
+  "toggle_notification_oxygen": "Notify Oxygen",
+  "tab_Credits_Translators": "Translators",
+  "tab_Credits_Contributors": "Contributors",
+  "Window_tab_home": "Home",
+  "Window_tab_home_description": "Home page",
+  "tab_home_invalidkey": "Invalid Key",
+  "tab_home_player": "Player Account",
+  "tab_home_playerkey": "Key information",
+  "tab_home_goodday": "Good Day",
+  "tab_home_goodafternoon": "Good Afternoon",
+  "tab_home_goodnight": "Good Night",
+  "Window_tab_doors_main_description": "Main Functions",
+  "Window_tab_doors_hotel_description": "Current floor functions",
+  "Window_tab_doors_visual_description": "Visual Functions & ESP",
+  "Window_tab_doors_exploits_description": "Game Exploits",
+  "Window_tab_doors_credits_description": "Credits and information"
 }
