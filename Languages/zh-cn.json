@@ -257,5 +257,20 @@
   "slider_exploits_OrbitalParts_distance": "环绕建筑",  
   "slider_exploits_OrbitalParts_distance": "环绕距离",  
   "slider_exploits_OrbitalParts_speed": "环绕速度",
-  "toggle_notification_oxygen": "通知氧气"
+  "toggle_notification_oxygen": "通知氧气",
+  "tab_Credits_Translators": "翻译人员",
+  "tab_Credits_Contributors": "贡献者",
+  "Window_tab_home": "主页",
+  "Window_tab_home_description": "主页",
+  "tab_home_invalidkey": "无效密钥",
+  "tab_home_player": "玩家账户",
+  "tab_home_playerkey": "密钥信息",
+  "tab_home_goodday": "早上好",
+  "tab_home_goodafternoon": "下午好",
+  "tab_home_goodnight": "晚安",
+  "Window_tab_doors_main_description": "主要功能",
+  "Window_tab_doors_hotel_description": "当前楼层功能",
+  "Window_tab_doors_visual_description": "视觉功能 & ESP",
+  "Window_tab_doors_exploits_description": "游戏漏洞利用",
+  "Window_tab_doors_credits_description": "制作人员和信息"
 }
