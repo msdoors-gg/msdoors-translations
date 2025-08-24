@@ -258,5 +258,20 @@
   "slider_exploits_OrbitalParts_diatance": "Parts em Orbitação",
   "slider_exploits_OrbitalParts_diatance": "Distância de Orbitação",
   "slider_exploits_OrbitalParts_speed": "Velocidade de Orbitação",
-  "toggle_notification_oxygen": "Notificar Oxigênio"
+  "toggle_notification_oxygen": "Notificar Oxigênio",
+  "tab_Credits_Translators": "Tradutores",
+  "tab_Credits_Contributors": "Colaboradores",
+  "Window_tab_home": "Início",
+  "Window_tab_home_description": "Página inicial",
+  "tab_home_invalidkey": "Chave Inválida",
+  "tab_home_player": "Conta do Jogador",
+  "tab_home_playerkey": "Informações da chave",
+  "tab_home_goodday": "Bom Dia",
+  "tab_home_goodafternoon": "Boa Tarde",
+  "tab_home_goodnight": "Boa Noite",
+  "Window_tab_doors_main_description": "Funções Principais",
+  "Window_tab_doors_hotel_description": "Funções do andar atual",
+  "Window_tab_doors_visual_description": "Funções Visuais & ESP",
+  "Window_tab_doors_exploits_description": "Exploits do Jogo",
+  "Window_tab_doors_credits_description": "Créditos e informações"
 }
