@@ -37,6 +37,7 @@
   "tab_fools_antiEntity": "Anti-Entities",
   "toggle_fools_antibanana": "Anti-Banana",
   "toggle_antijeffthekiller_client": "Anti Jeff(Client)",
+  "toggle_antijeffthekiller_server": "Anti-Jeff(FE)",
   "button_fools_revive": "Revive",
   "toggle_fools_autorevive": "Auto Revive",
   "tab_ranked_localplayer": "Local Player",
