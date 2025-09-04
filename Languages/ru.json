@@ -275,5 +275,7 @@
   "Window_tab_doors_hotel_description": "Функции текущего этажа",
   "Window_tab_doors_visual_description": "Визуальные функции и ESP",
   "Window_tab_doors_exploits_description": "Игровые эксплойты",
-  "Window_tab_doors_credits_description": "Авторы и информация"
+  "Window_tab_doors_credits_description": "Авторы и информация",
+  "toggle_notification_hidetime": "Уведомить скрытое время",
+  "toggle_notification_oxygen": "Уведомить кислород",
 }
