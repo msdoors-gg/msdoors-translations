@@ -275,5 +275,7 @@
   "Window_tab_doors_hotel_description": "Current floor functions",
   "Window_tab_doors_visual_description": "Visual Functions & ESP",
   "Window_tab_doors_exploits_description": "Game Exploits",
-  "Window_tab_doors_credits_description": "Credits and information"
+  "Window_tab_doors_credits_description": "Credits and information",
+  "toggle_notification_hidetime": "Notify hidden time",
+  "toggle_notification_oxygen": "Notify Oxygen",
 }
