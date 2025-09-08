@@ -278,5 +278,8 @@
   "Window_tab_doors_credits_description": "Авторы и информация",
   "toggle_notification_hidetime": "Уведомить скрытое время",
   "toggle_notification_oxygen": "Уведомить кислород",
-  "toggle_exploits_anticheatmanipulation": "Античит-манипуляция"
+  "toggle_exploits_anticheatmanipulation": "Античит-манипуляция",
+  "tab_automation_autorooms": "Авто-комнаты V3",
+  "tab_automation_autorooms_showdebug": "Авто-комнаты [DEBUG]",
+  "tab_automation_autorooms_shownodes": "Авто-комнаты [ПОКАЗАТЬ ПУТЬ]"
 }
