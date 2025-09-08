@@ -278,5 +278,8 @@
   "Window_tab_doors_credits_description": "Credits and information",
   "toggle_notification_hidetime": "Notify hidden time",
   "toggle_notification_oxygen": "Notify Oxygen",
-  "toggle_exploits_anticheatmanipulation": "Anti-Cheat Manipulation"
+  "toggle_exploits_anticheatmanipulation": "Anti-Cheat Manipulation",
+  "tab_automation_autorooms": "Auto-Rooms V3",
+  "tab_automation_autorooms_showdebug": "Auto-Rooms [DEBUG]",
+  "tab_automation_autorooms_shownodes": "Auto-Rooms [SHOW PATH]"
 }
