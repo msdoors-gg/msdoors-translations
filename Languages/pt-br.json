@@ -278,5 +278,8 @@
   "Window_tab_doors_credits_description": "Créditos e informações",
   "toggle_notification_hidetime": "Notificar tempo escondido",
   "toggle_notification_oxygen": "Notificar Oxigênio",
-  "toggle_exploits_anticheatmanipulation": "Manipulação Anti-Trapaça"
+  "toggle_exploits_anticheatmanipulation": "Manipulação Anti-Trapaça",
+  "tab_automation_autorooms": "Auto-Rooms V3",
+  "tab_automation_autorooms_showdebug": "Auto-Rooms [DEBUG]",
+  "tab_automation_autorooms_shownodes": "Auto-Rooms [MOSTRAR CAMINHO]"
 }
