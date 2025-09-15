@@ -304,5 +304,6 @@
   "Create Quick Elevator": "Criar Elevador Rápido",
   "preset manager": "gerenciador de predefinições",
   "Quick Actions": "Ações rápidas",
-  "Auto Blocked Door": "Auto Chutar Portas"
+  "Auto Blocked Door": "Auto Chutar Portas",
+  "Auto Execute On Teleport": "Execução automática quando teleportar"
 }
