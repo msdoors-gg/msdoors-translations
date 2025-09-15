@@ -304,5 +304,6 @@
 "Create Quick Elevator": "Create Quick Elevator",
 "preset manager": "preset manager",
 "Quick Actions": "Quick Actions",
-"Auto Blocked Door": "Auto Kick Doors"
+"Auto Blocked Door": "Auto Blocked Doors",
+"Auto Execute On Teleport": "Auto Execute On Teleport"
 }
