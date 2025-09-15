@@ -304,5 +304,6 @@
 "Create Quick Elevator": "Создать быстрый лифт",
 "preset manager": "менеджер пресетов",
 "Quick Actions": "Быстрые действия",
-"Auto Blocked Door": "Авто Взлом Дверей"
+"Auto Blocked Door": "Авто Взлом Дверей",
+"Auto Execute On Teleport": "Автоматическое выполнение при телепортации"
 }
