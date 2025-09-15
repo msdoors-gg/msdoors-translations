@@ -303,5 +303,6 @@
 "Create Quick Elevator": "创建快速电梯",
 "preset manager": "预设管理器",
 "Quick Actions": "快速操作",
-"Auto Blocked Door": "自动踢门"
+"Auto Blocked Door": "自动踢门",
+"Auto Execute On Teleport": "传送时自动执行"
 }
