@@ -306,5 +306,6 @@
 "Quick Actions": "Быстрые действия",
 "Auto Blocked Door": "Авто Взлом Дверей",
 "Auto Execute On Teleport": "Автоматическое выполнение при телепортации",
-"toggle_menu_watermark": "Показать водяной знак"
+"toggle_menu_watermark": "Показать водяной знак",
+  "Auto Aim Projectiles": "Автоматическое прицеливание снарядов"
 }
