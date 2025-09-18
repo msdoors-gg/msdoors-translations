@@ -305,5 +305,6 @@
 "Quick Actions": "快速操作",
 "Auto Blocked Door": "自动踢门",
 "Auto Execute On Teleport": "传送时自动执行",
-"toggle_menu_watermark": "显示水印"
+"toggle_menu_watermark": "显示水印",
+"Auto Aim Projectiles": "自动瞄准射弹"
 }
