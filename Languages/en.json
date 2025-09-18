@@ -306,5 +306,6 @@
 "Quick Actions": "Quick Actions",
 "Auto Blocked Door": "Auto Blocked Doors",
 "Auto Execute On Teleport": "Auto Execute On Teleport",
-"toggle_menu_watermark": "Show Watermark"
+"toggle_menu_watermark": "Show Watermark",
+  "Auto Aim Projectiles": "Auto Aim Projectiles",
 }
