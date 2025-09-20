@@ -306,5 +306,6 @@
   "toggle_menu_watermark": "Show Watermark",
   "Auto Aim Projectiles": "Auto Aim Projectiles",
   "Always Win Heartbeat": "Auto Heartbeat",
-  "slider_exploits_OrbitalParts_diatance": "Orbit distance"
+  "slider_exploits_OrbitalParts_diatance": "Orbit distance",
+  "toggle_esp_player": "Player esp"
 }
