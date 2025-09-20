@@ -51,7 +51,7 @@
   "toggle_mines_antiflood": "Não afundar no Dam Seek",
   "toggle_garden_antisurge": "Anti-Surge",
   "toggle_garden_antisurge_method": "Método Anti-Surge",
-  "toggle_mines_showseekpath": "Ver caminho do seek", 
+  "toggle_mines_showseekpath": "Ver caminho do seek",
   "button_misc_revive": "Reviver",
   "button_misc_playagain": "Jogar Novamente",
   "button_misc_returntolobby": "Retornar ao Lobby",
@@ -109,7 +109,7 @@
   "slider_visual_brightness": "Brilho",
   "toggle_visual_fullbright": "Brilho Total",
   "toggle_visual_Nofog": "Sem Neblina",
-  "toggle_visual_antilag": "Anti-Lag",
+  "toggle_visual_antilag": "Reduzir Lag",
   "toggle_visual_nocamshake": "Camera sem vibração",
   "toggle_main_instantInteract": "Interação Instantânea",
   "toggle_main_autoInteract": "Interação Automática",
@@ -209,7 +209,6 @@
   "toggle_naturaldisaster_removesandstormui": "Remover SandstormUI",
   "toggle_naturaldisaster_removeblizzardui": "Remover BlizzardUi",
   "toggle_naturaldisaster_removeads": "Remover Anúncios",
-  "toggle_visual_antilag": "Reduzir Lag",
   "button_exploits_player_godmode": "Modo Deus",
   "button_exploits_player_speedbypass": "Speed Bypass",
   "button_exploits_item_giveballon": "Conseguir Balão",
@@ -257,7 +256,6 @@
   "toggle_exploits_flingplayer": "Flingar Jogador",
   "toggle_exploits_focusparts": "Jogar Parts no jogador",
   "dropdown_exploits_target": "Selecione um Alvo",
-  "slider_exploits_OrbitalParts_diatance": "Parts em Orbitação",
   "slider_exploits_OrbitalParts_diatance": "Distância de Orbitação",
   "slider_exploits_OrbitalParts_speed": "Velocidade de Orbitação",
   "toggle_notification_oxygen": "Notificar Oxigênio",
@@ -277,7 +275,6 @@
   "Window_tab_doors_exploits_description": "Exploits do Jogo",
   "Window_tab_doors_credits_description": "Créditos e informações",
   "toggle_notification_hidetime": "Notificar tempo escondido",
-  "toggle_notification_oxygen": "Notificar Oxigênio",
   "toggle_exploits_anticheatmanipulation": "Manipulação Anti-Trapaça",
   "tab_automation_autorooms": "Auto-Rooms V3",
   "tab_automation_autorooms_showdebug": "Auto-Rooms [DEBUG]",
@@ -308,5 +305,5 @@
   "Auto Execute On Teleport": "Execução automática quando teleportar",
   "toggle_menu_watermark": "Mostrar Marca D'água",
   "Auto Aim Projectiles": "auto mirar projéteis",
-  "Always Win Heartbeat": "Auto batimentos Cardíacos"
+  "Always Win Heartbeat": "Auto Heartbeat"
 }
