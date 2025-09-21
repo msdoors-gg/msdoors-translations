@@ -306,5 +306,6 @@
   "toggle_menu_watermark": "透かし表示",
   "Auto Aim Projectiles": "投射物自動照準",
   "Always Win Heartbeat": "自動心拍",
-  "slider_exploits_OrbitalParts_diatance": "軌道距離"
+  "slider_exploits_OrbitalParts_diatance": "軌道距離",
+  "toggle_esp_player": "ESPプレイヤー"
 }
