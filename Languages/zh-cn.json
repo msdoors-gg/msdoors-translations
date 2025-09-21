@@ -306,5 +306,6 @@
   "Auto Aim Projectiles": "自动瞄准射弹",
   "Always Win Heartbeat": "自动心跳",
   "Window_tab_exploits_godmodewarn": "如果上帝模式在此楼层不起作用，请加入我们的 Discord 并报告！",
-  "slider_exploits_OrbitalParts_diatance": "轨道距离"
+  "slider_exploits_OrbitalParts_diatance": "轨道距离",
+  "toggle_esp_player": "Esp 玩家"
 }
