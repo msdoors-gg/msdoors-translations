@@ -256,7 +256,6 @@
   "toggle_exploits_flingplayer": "プレイヤー吹き飛ばし",
   "toggle_exploits_focusparts": "プレイヤーにパーツ投げつけ",
   "dropdown_exploits_target": "ターゲット選択",
-  "slider_exploits_OrbitalParts_distance": "軌道距離",
   "slider_exploits_OrbitalParts_speed": "軌道速度",
   "toggle_notification_oxygen": "酸素通知",
   "tab_Credits_Translators": "翻訳者",
@@ -304,7 +303,7 @@
   "Auto Blocked Door": "自動ブロックドア",
   "Auto Execute On Teleport": "テレポート時自動実行",
   "toggle_menu_watermark": "透かし表示",
-  "Auto Aim Projectiles": "投射物自動照準",
+  "Auto Aim Projectiles": "自動攻撃プレイヤー",
   "Always Win Heartbeat": "自動心拍",
   "slider_exploits_OrbitalParts_diatance": "軌道距離",
   "toggle_esp_player": "ESPプレイヤー"
