@@ -306,5 +306,6 @@
   "toggle_menu_watermark": "Mostrar Marca D'água",
   "Auto Aim Projectiles": "Atacar jogadores automaticamente",
   "Always Win Heartbeat": "Auto batimentos Cardíacos",
-  "toggle_esp_player": "Esp Jogadores"
+  "toggle_esp_player": "Esp Jogadores",
+  "seek helper": "Seek Automático"
 }
