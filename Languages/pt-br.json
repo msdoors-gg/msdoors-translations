@@ -307,5 +307,16 @@
   "Auto Aim Projectiles": "Atacar jogadores automaticamente",
   "Always Win Heartbeat": "Auto batimentos Cardíacos",
   "toggle_esp_player": "Esp Jogadores",
-  "seek helper": "Seek Automático"
+  "seek helper": "Seek Automático",
+  "Seek Deleted Successfully": "Seek deletado com sucesso",
+	"Delete Seek[FE]": "Deletar Seek[FE]",
+  "Delete Figure[FE]": "Deletar Figure[FE]",
+  "reset": "Resetar",
+	"code:": "Código:",
+  "Bruteforce Code": "Chutar Código",
+  "Guessing numbers, please wait...": "Adivinhando números, por favor aguarde...",
+  "Trying to figure out the missing digits": "Tentando descobrir os dígitos faltantes",
+  "Anticheat Bypass": "Ignorar AntiCheat",
+  "Climb a ladder and wait for everything to happen.": "Suba em uma escada e espere tudo acontecer.",
+	"anticheat bypassed, will be broken in Cutscenes or on Halt.": "anticheat ignorado, será quebrado em Cutscenes ou em Halt."
 }
