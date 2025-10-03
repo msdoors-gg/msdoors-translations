@@ -306,5 +306,17 @@
   "Always Win Heartbeat": "自动心跳",
   "Window_tab_exploits_godmodewarn": "如果上帝模式在此楼层不起作用，请加入我们的 Discord 并报告！",
   "slider_exploits_OrbitalParts_diatance": "轨道距离",
-  "toggle_esp_player": "Esp 玩家"
+  "toggle_esp_player": "Esp 玩家",
+  "seek helper": "",
+  "Seek Deleted Successfully": "已成功删除seek",
+  "Delete Seek[FE]": "删除seek[FE]",
+  "Delete Figure[FE]": "删除Figure[FE]",
+  "reset": "重置",
+  "code:": "密码:",
+  "Bruteforce Code": "暴力解密",
+  "Guessing numbers, please wait...": "正在破解，请稍后",
+  "Trying to figure out the missing digits": "请找出缺失的数字",
+  "Anticheat Bypass": "绕过反作弊",
+  "Climb a ladder and wait for everything to happen.": "请爬上梯子等待绕过",
+  "anticheat bypassed, will be broken in Cutscenes or on Halt.": "已成功绕过，将在过场动画或者遇见halt时失效"
 }
