@@ -306,5 +306,12 @@
   "Auto Aim Projectiles": "Автоматическое прицеливание снарядов",
   "Always Win Heartbeat": "Автоматическое сердцебиение",
   "slider_exploits_OrbitalParts_diatance": "Расстояние орбиты",
-  "toggle_esp_player": "Игроки ESP"
+  "toggle_esp_player": "Игроки ESP",
+  "Seek Deleted Successfully": "Сик успешно удалён",
+  "Delete Seek[FE]": "Удалить Сика [FE]",
+  "Delete Figure[FE]": "Удалить Фигуру [FE]",
+  "reset": "Сбросить персонажа",
+  "code:": "Код:",
+  "Guessing numbers, please wait...": "Угадываю числа, пожалуйста подождите...",
+  "Anticheat Bypass": "Обход анти-чита"
 }
