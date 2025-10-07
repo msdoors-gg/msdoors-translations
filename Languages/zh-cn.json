@@ -124,7 +124,7 @@
   "toggle_main_autobreakerbox": "自动电闸箱",
   "notify_autobreakerbox": "自动电闸箱",
   "notify_autobreakerbox_solving": "正在解决电闸箱问题...",
-  "toggle_main_enablejump": "启用跳跃",
+  "toggle_main_enablejump": "启用跳跃(有加成)",
   "slider_main_enablejump_power": "跳跃高度",
   "toggle_antiEntity_antiDread": "防Dread",
   "toggle_antiEntity_antiscreech": "移除Screech",
@@ -320,5 +320,6 @@
   "Climb a ladder and wait for everything to happen.": "请爬上梯子等待绕过",
   "anticheat bypassed, will be broken in Cutscenes or on Halt.": "已成功绕过，将在过场动画或者遇见halt时失效",
   "parts in orbit": "黑洞轨道",
-  "fling force": "甩飞忽略"
+  "fling force": "甩飞忽略",
+  "Enable Sliding": "开启跳跃(无加成)"
 }
