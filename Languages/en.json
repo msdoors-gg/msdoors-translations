@@ -306,5 +306,20 @@
   "Auto Aim Projectiles": "auto attack players",
   "Always Win Heartbeat": "Auto Heartbeat",
   "slider_exploits_OrbitalParts_diatance": "Orbit distance",
-  "toggle_esp_player": "Player esp"
+  "toggle_esp_player": "Player esp",
+  "Enable Sliding": "Enable Sliding",
+  "fling force": "Fling Force",
+  "anticheat bypassed, will be broken in Cutscenes or on Halt.": "anticheat bypassed, will be broken in Cutscenes or on Halt.",
+  "parts in orbit": "Parts In Orbit",
+  "Climb a ladder and wait for everything to happen.": "Climb a ladder and wait for everything to happen.",
+  "seek helper": "seek helper",
+  "Seek Deleted Successfully": "Seek Deleted Successfully",
+  "Delete Seek[FE]": "Delete Seek[FE]",
+  "Delete Figure[FE]": "Delete Figure[FE]",
+  "reset": "Reset",
+  "code:": "Code'",
+  "Bruteforce Code": "Bruteforce Code",
+  "Guessing numbers, please wait...": "Guessing numbers, please wait...",
+  "Trying to figure out the missing digits": "Trying to figure out the missing digits",
+  "Anticheat Bypass": "Anticheat Bypass"
 }
