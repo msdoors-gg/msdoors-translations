@@ -322,5 +322,12 @@
   "Guessing numbers, please wait...": "Guessing numbers, please wait...",
   "Trying to figure out the missing digits": "Trying to figure out the missing digits",
   "Anticheat Bypass": "Anticheat Bypass",
-  "Death Farm": "Death Farm"
+  "Death Farm": "Death Farm",
+  "Closet": "Closet",
+  "Bed": "Cama",
+  "toggle_esp_hiding_spot": "Esp Closet",
+  "colorpicker_esp_hiding_spot": "Closet Color Esp",
+  "fly": "Fly",
+  "fly speed": "Fly Speed",
+  "menu keybind": "Menu Keybind"
 }
