@@ -321,5 +321,13 @@
   "anticheat bypassed, will be broken in Cutscenes or on Halt.": "已成功绕过，将在过场动画或者遇见halt时失效",
   "parts in orbit": "黑洞轨道",
   "fling force": "甩飞忽略",
-  "Enable Sliding": "开启跳跃(无加成)"
+  "Enable Sliding": "开启跳跃(无加成)",
+  "Closet": "柜子",
+  "Bed": "床",
+  "Death Farm": "刷死亡数量",
+  "fly": "飞行",
+  "fly speed": "飞行速度",
+  "menu keybind": "菜单绑定键",
+  "toggle_esp_hiding_spot": "切换ESP隐藏点",
+  "colorpicker_esp_hiding_spot": "颜色选择器隐藏点"
 }
