@@ -329,5 +329,7 @@
   "fly speed": "飞行速度",
   "menu keybind": "菜单绑定键",
   "toggle_esp_hiding_spot": "切换ESP隐藏点",
-  "colorpicker_esp_hiding_spot": "颜色选择器隐藏点"
+  "colorpicker_esp_hiding_spot": "颜色选择器隐藏点",
+  "No Puzzle Door": "无谜题门",
+  "upside down": "倒挂"
 }
