@@ -314,5 +314,8 @@
   "code:": "Код:",
   "Guessing numbers, please wait...": "Угадываю числа, пожалуйста подождите...",
   "Anticheat Bypass": "Обход анти-чита",
-  "upside down": "С ног на голову"
+  "upside down": "С ног на голову",
+  "Distance to Door Reach": "Расстояние до двери"
+  "Anti Firedamp": "Противопожарный клапан",
+  "anti haste effect": "Антихам-эффект"
 }

@@ -331,5 +331,8 @@
   "fly speed": "Velocidade de voo",
   "menu keybind": "atalho de teclado do menu",
   "No Puzzle Door": "Sem porta quebra-cabeça",
-  "upside down": "Cabeça para baixo"
+  "upside down": "Cabeça para baixo",
+  "Distance to Door Reach": "Distância até o alcance da porta",
+  "Anti Firedamp": "Anti-incêndio",
+  "anti haste effect": "Anti Haste Effect"
 }
