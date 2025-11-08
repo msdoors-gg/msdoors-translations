@@ -331,8 +331,8 @@
   "toggle_esp_hiding_spot": "切换ESP隐藏点",
   "colorpicker_esp_hiding_spot": "颜色选择器隐藏点",
   "No Puzzle Door": "无谜题门",
-  "upside down": "倒挂",
+  "upside down": "上下颠倒",
   "Distance to Door Reach": "到门距离",
-  "Anti Firedamp": "防火阀",
-  "anti haste effect": "抗火腿效应"
+  "Anti Firedamp": "防火房",
+  "anti haste effect": "防红色骷髅头效果(该死还得死)"
 }
