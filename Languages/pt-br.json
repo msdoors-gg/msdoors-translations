@@ -335,5 +335,6 @@
   "Distance to Door Reach": "Distância até o alcance da porta",
   "Anti Firedamp": "Anti-incêndio",
   "anti haste effect": "Anti Haste Effect",
-  "auto anchors solve": "auto resolver âncoras"
+  "auto anchors solve": "auto resolver âncoras",
+  "Auto Interact Interval": "Intervalo de interação"
 }
