@@ -334,5 +334,7 @@
   "upside down": "Upside down",
   "Distance to Door Reach": "Distance to Door Reach",
   "Anti Firedamp": "Anti Firedamp",
-  "anti haste effect": "Anti Haste Effect"
+  "anti haste effect": "Anti Haste Effect",
+  "auto anchors solve": "auto anchors solve",
+  "Auto Interact Interval": "Auto Interact Interval"
 }
