@@ -15,6 +15,12 @@
         "contributions": 2,
         "totalPercentage": 3,
         "lastUpdated": "2025-11-08T23:05:45.237Z"
+      },
+      "es": {
+        "displayName": "Español",
+        "contributions": 1,
+        "totalPercentage": 100,
+        "lastUpdated": "2025-11-11T23:01:41.675Z"
       }
     }
   }
