@@ -331,5 +331,10 @@
   "fly speed": "Fly Speed",
   "menu keybind": "Menu Keybind",
   "No Puzzle Door": "No Puzzle Door",
-  "upside down": "Upside down"
+  "upside down": "Upside down",
+  "Distance to Door Reach": "Afstand",
+  "Anti Firedamp": "Anti Mijngas",
+  "anti haste effect": "Anti haast effect",
+  "auto anchors solve": "Auto auteur",
+  "Auto Interact Interval": "Auto interactie interval"
 }
