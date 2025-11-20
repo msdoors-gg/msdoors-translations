@@ -361,5 +361,7 @@
   "Hitbox Size": "Tamanho da hitbox",
   "Visible Hitboxes": "Hitboxes Visiveis",
   "Hitbox Transparency": "Transparência da hitbox",
-  "Instant Revive": "Revive Instantâneo"
+  "Instant Revive": "Revive Instantâneo",
+  "less lagback": "Menos atraso",
+  "This reduces lag in Speed Bypass. [ Speed Bypass required to be enabled. ]": "Isso reduz o atraso no Speed Bypass. [O Speed Bypass precisa estar ativado.]"
 }
