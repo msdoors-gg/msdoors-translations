@@ -364,5 +364,6 @@
   "Instant Revive": "Revive Instantâneo",
   "less lagback": "Menos atraso",
   "This reduces lag in Speed Bypass. [ Speed Bypass required to be enabled. ]": "Isso reduz o atraso no Speed Bypass. [O Speed Bypass precisa estar ativado.]",
-  "noclip": "Atravessar paredes"
+  "noclip": "Atravessar paredes",
+  "Max Fps Display": "Fps maximo para exibir"
 }
