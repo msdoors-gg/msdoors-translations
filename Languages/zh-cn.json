@@ -340,7 +340,7 @@
   "guns": "枪",
   "aimbot": "自瞄",
   "part to aim": "瞄准部位",
-  "Death Aim": "",
+  "Death Aim": "瞄尸体",
   "He'll only stop aiming at the target when it dies.": "当目标死亡它才会停止自瞄",
   "aiming method": "自瞄方式",
   "Check Walls": "检测墙壁",
@@ -362,5 +362,9 @@
   "Hitbox Size": "碰撞箱大小",
   "Hitbox Expander": "碰撞箱修改器",
   "predict movement": "预测瞄准",
-  "Forecast rate": "预测率"
+  "Forecast rate": "预测率",
+  "Update Summary": "更新摘要",
+  "Assistance": "援助（不对请反馈）",
+  "Max Fps Display": "最大帧率显示",
+  "Elevator Sniper": "电梯追踪(跟人进电梯)"
 }
