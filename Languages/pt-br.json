@@ -367,5 +367,7 @@
   "noclip": "Atravessar paredes",
   "Max Fps Display": "Fps maximo para exibir",
   "Elevator Sniper": "Sniper de Elevador",
-  "Noclip Bypass": "Noclip Bypass"
+  "Noclip Bypass": "Noclip Bypass",
+  "No blur effect": "Sem Efeito de Blur",
+  "no green screen effect": "Sem Efeito de Tela Verde"
 }
