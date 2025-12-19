@@ -85,6 +85,7 @@
   "esp_objective_Toolshed": "Armário da tesoura",
   "esp_objective_lever": "Alavanca",
   "esp_objective_guillotine": "guilhotina",
+  "esp_objective_present": "Presente",
   "esp_door": "Porta",
   "esp_door_opened": "[Aberta]",
   "esp_door_locked": "[Trancada]",
@@ -144,7 +145,7 @@
   "toggle_troll_spamothertools": "Spamar items",
   "toggle_reach_doorreach": "Alcance da porta",
   "toggle_reach_promptclip": "Prompt Clip",
-  "slider_reach_maxactivationdistance": "Multiplicador de Alcance do Prompt",
+  "slider_reach_maxactivationdistance": "Distância do Prompt Range",
   "toggle_notification_notifyentities": "Notificar Entidades",
   "toggle_notification_notifyrooms": "Notificar Salas",
   "toggle_notification_notifypadlockcode": "Notificar Código do Cadeado",
@@ -369,5 +370,6 @@
   "Elevator Sniper": "Sniper de Elevador",
   "Noclip Bypass": "Noclip Bypass",
   "No blur effect": "Sem Efeito de Blur",
-  "no green screen effect": "Sem Efeito de Tela Verde"
+  "no green screen effect": "Sem Efeito de Tela Verde",
+  "Soon": "Em breve"
 }
