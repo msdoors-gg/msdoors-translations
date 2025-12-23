@@ -335,7 +335,7 @@
   "Distance to Door Reach": "Distance to Door Reach",
   "Anti Firedamp": "Anti Firedamp",
   "anti haste effect": "Anti Haste Effect",
-  "auto anchors solve": "auto anchors solve",
+  "auto anchors solve": "Notify Anchors Code",
   "Auto Interact Interval": "Auto Interact Interval",
   "Update Summary": "Update Summary",
   "Assistance": "Assistance",
@@ -369,5 +369,6 @@
   "Instant Revive": "Instant Revive",
   "esp_objective_present": "Present",
   "Soon": "Coming soon",
-  "win instantly": "win instantly"
+  "win instantly": "win instantly",
+  "No firedamp effect": "No firedamp effect"
 }
