@@ -372,5 +372,7 @@
   "win instantly": "win instantly",
   "No firedamp effect": "No firedamp effect",
   "Send Anchor Code in chat": "Send Anchor Code in chat",
-  "bring items": "Puxar Itens"
+  "bring items": "Puxar Itens",
+  "toggle_esp_config_showdistance": "Show Distance",
+  "Circular Vent": "Circular Vent"
 }
