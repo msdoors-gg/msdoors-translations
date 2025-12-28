@@ -105,6 +105,7 @@
   "colorpicker_esp_hiding_spot": "Cor do Esp Esconderijos",
   "toggle_esp_config_tracers": "Traços",
   "toggle_esp_config_arrows": "Setas",
+  "toggle_esp_config_showdistance": "Mostrar distância",
   "toggle_esp_config_rainbow": "Esp Colorido",
   "toggle_esp_config_textsize": "Tamanho do Texto",
   "Slider_esp_config_outline": "Transparência do Contorno",
