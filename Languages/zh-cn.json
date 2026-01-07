@@ -375,5 +375,9 @@
   "win instantly": "快速胜利",
   "No firedamp effect": "无火防效果",
   "Send Anchor Code in chat": "在聊天发送密码",
-  "Circular Vent": "圆形通风口"
+  "Circular Vent": "圆形通风口",
+  "bring items": "物品传送到脚下",
+  "Knob Farm": "旋钮农场",
+  "Revive Friends": "复活朋友",
+  "toggle_esp_config_showdistance": "esp距离显示"
 }
