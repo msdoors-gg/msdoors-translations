@@ -376,5 +376,10 @@
   "toggle_esp_config_showdistance": "Show Distance",
   "Circular Vent": "Circular Vent",
   "Knob Farm": "Knob Farm",
-  "Revive Friends": "Revive Friends"
+  "Revive Friends": "Revive Friends",
+  "Notify Anchors": "Notify Anchors",
+  "Auto solve anchors": "Auto solve anchors",
+  "Beat Door 200": "Beat Door 200",
+  "Anticheat bypass must be active.": "Anticheat bypass must be active.",
+  "You haven't reached door 200.": "You haven't reached door 200."
 }
