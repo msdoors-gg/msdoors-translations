@@ -379,5 +379,11 @@
   "bring items": "物品传送到脚下",
   "Knob Farm": "旋钮农场",
   "Revive Friends": "复活朋友",
-  "toggle_esp_config_showdistance": "esp距离显示"
+  "toggle_esp_config_showdistance": "esp距离显示",
+  "no chaos effects": "无混乱效果",
+  "Notify Anchors": "提示密码机",
+  "Auto solve anchors": "自动密码机",
+  "Beat Door 200": "自动200阀门",
+  "Anticheat bypass must be active.": "反作弊绕过必须是启用的",
+  "You haven't reached door 200.": "你没有到200门"
 }
