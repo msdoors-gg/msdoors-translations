@@ -382,5 +382,9 @@
   "Beat Door 200": "Beat Door 200",
   "Anticheat bypass must be active.": "Anticheat bypass must be active.",
   "You haven't reached door 200.": "You haven't reached door 200.",
-  "no chaos effects": "no chaos effects"
+  "no chaos effects": "no chaos effects",
+  "Hitbox Size": "Hitbox Size",
+  "Visible Hitboxes": "Visible Hitboxes",
+  "Hitbox Transparency": "Hitbox Transparency",
+  "bring hitboxes": "bring hitboxes"
 }
