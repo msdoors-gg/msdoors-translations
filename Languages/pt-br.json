@@ -390,5 +390,6 @@
   "You haven't reached door 200.": "Você ainda não chegou à porta 200.",
   "bring hitboxes": "trazer hitboxes",
   "tab_automation_seekhelper_shownodes": "Mostrar Caminho",
-  "tab_automation_seekhelper": "Seek Helper"
+  "tab_automation_seekhelper": "Seek Helper",
+  "esp_objective_hintpaper": "Papel dica"
 }
