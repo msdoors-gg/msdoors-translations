@@ -386,5 +386,8 @@
   "Hitbox Size": "Hitbox Size",
   "Visible Hitboxes": "Visible Hitboxes",
   "Hitbox Transparency": "Hitbox Transparency",
-  "bring hitboxes": "bring hitboxes"
+  "bring hitboxes": "bring hitboxes",
+  "tab_automation_seekhelper_shownodes": "show path",
+  "tab_automation_seekhelper": "Seek Helper",
+  "esp_objective_hintpaper": "Hint paper"
 }
