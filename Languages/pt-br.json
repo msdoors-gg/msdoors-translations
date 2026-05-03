@@ -412,5 +412,22 @@
   "Fling Beast": "Arremessar Besta",
   "Sound Spam[FE]": "Spamar Som[FE]",
   "Anti-fail PC": "Não falhar no pc",
-  "menu bind": "Tecla para alternar o menu"
+  "menu bind": "Tecla para alternar o menu",
+  "toggle_mines_autominecart": "Auto Minecart",
+  "notify_autominecart_title": "Auto Minecart",
+  "notify_autominecart_warning": "Não faça nada enquanto o Auto Minecart estiver ativado.",
+  "notify_autominecart_done": "Você já pode controlar normalmente.",
+  "Prioritize Rarity": "Priorizar Raridades",
+  "infinite items": "Infinite Items",
+  "Anchor Solved": "Âncora Resolvida",
+  "Combination found, success!": "Combinação encontrada, sucesso!",
+  "Padlock solved!": "Cadeado resolvido!",
+  "notify_autobreakerbox_complete": "Caixa de disjuntores resolvida com sucesso!",
+  "toggle_antiEntity_antilookmam": "Anti-Lookmam",
+  "twerk": "twerk",
+  "Second Live": "Segunda Vida",
+  "Second Live Desc": "Cure-se ao pegar o curativo e restaure as interações normalmente.",
+  "Second Live Disabled": "Saia da porta 1 para ativar o Fake Revive!",
+  "Freecam": "Câmera Livre",
+  "Freecam Speed": "Velocidade da Câmera"
 }
