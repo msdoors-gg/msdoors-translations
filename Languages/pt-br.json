@@ -431,5 +431,8 @@
   "Freecam": "Câmera Livre",
   "Freecam Speed": "Velocidade da Câmera",
   "Speed Bypass method": "Método do Speed Bypass",
-  "Rounded Guis": "Guis Arredondadas"
+  "Rounded Guis": "Guis Arredondadas",
+  "Success!": "Sucesso!",
+  "The player entered the cart, initiating teleportation...": "O jogador entrou no carrinho, iniciando o teletransporte...",
+  "Minecart Teleport": "Teletransporte de carrinho"
 }
