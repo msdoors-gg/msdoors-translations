@@ -77,7 +77,7 @@
   "esp_objective_fuse": "Fuse",
   "esp_objective_KeyEletrical": "Key",
   "esp_objective_book": "Book",
-  "esp_objective_BreakerBox": "Breaker Box",
+  "esp_objective_BreakerBox": "Breaker",
   "esp_objective_generator": "Generator",
   "esp_objective_gatebutton": "Gate Button",
   "esp_objective_minesanchor": "Tower",
