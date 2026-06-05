@@ -151,7 +151,7 @@
   "toggle_reach_promptclip": "Prompt Clip",
   "slider_reach_maxactivationdistance": "Distância do Prompt Range",
   "toggle_notification_notifyentities": "Notificar Entidades",
-  "Notify entity despawn": "Notificar Entidades desaparecendo",
+  "Notify entities despawn": "Notificar Entidades desaparecendo",
   "toggle_notification_notifyrooms": "Notificar Salas",
   "toggle_notification_notifypadlockcode": "Notificar Código do Cadeado",
   "toggle_notification_notifyChat": "Enviar Notificações no chat",
