@@ -430,5 +430,5 @@
   "The player entered the cart, initiating teleportation...": "The player entered the cart, initiating teleportation...",
   "Minecart Teleport": "Minecart Teleport",
   "Custom entity despawn message": "Custom entity despawn message",
-  "Notify entity despawn": "Notify entity despawn"
+  "Notify entities despawn": "Notify entities despawn"
 }
