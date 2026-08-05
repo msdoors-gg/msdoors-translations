@@ -435,5 +435,10 @@
   "Infinite Jump": "Infinite Jump",
   "Endless with lockpick": "Endless with lockpick",
   "Anticheat manipulation method": "Anticheat manipulation method",
-  "Addons": "Addons"
+  "Addons": "Addons",
+  "toggle_mines_autominecart": "Auto steer minecart",
+  "notify_autominecart_title": "Auto steer minecart",
+  "notify_autominecart_warning": "Warning! auto steer minecart",
+  "notify_autominecart_done": "Auto steer minecart done.",
+  "Second Live Desc": ""
 }
