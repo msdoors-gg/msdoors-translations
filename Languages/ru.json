@@ -433,5 +433,12 @@
   "colorpicker_esp_beast": "монстр",
   "toggle_main_infinitejump": "бесконечные прыжки",
   "Name Spoof": "подмена имени",
-  "colorpicker_esp_player": "игрок"
+  "colorpicker_esp_player": "игрок",
+  "Custom entity despawn message": "оповестить о исчезновении необычной сущности",
+  "Anti Shocker": "анти шокер",
+  "Infinite Jump": "бесконечные прыжки",
+  "Endless with lockpick": "бесконечные двери с отмычками",
+  "Anticheat manipulation method": "метод манипуляции античита",
+  "Addons": "аддоны",
+  "Notify entities despawn": "оповестить о исчезновении сущностей"
 }
