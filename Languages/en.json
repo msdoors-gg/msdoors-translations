@@ -440,5 +440,16 @@
   "notify_autominecart_title": "Auto steer minecart",
   "notify_autominecart_warning": "Warning! auto steer minecart",
   "notify_autominecart_done": "Auto steer minecart done.",
-  "Second Live Desc": ""
+  "Second Live Desc": "",
+  "Auto Consequences": "Auto consequences",
+  "Anti Whisperer": "Anti Whisperer",
+  "Anti Limbo": "Anti Limbo",
+  "Anti Specimen(Deer God)": "Anti Deer God",
+  "Anti Dread": "Anti Dread",
+  "Anti Mandrake": "Anti Mandrake",
+  "Show Eyestalk Path": "Show Eyestalk Path",
+  "Esp Chests": "Esp Chests",
+  "Esp chest color": "Esp chests color",
+  "fullbright color": "Fullbright Color",
+  "Doors Noclip": "Doors Noclip"
 }
