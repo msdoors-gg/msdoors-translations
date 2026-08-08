@@ -452,5 +452,7 @@
   "Esp Chests": "Esp Baús",
   "Esp chest color": "Cor do Esp Baús",
   "fullbright color": "Cor do brilho",
-  "Doors Noclip": "Atravessar Portas"
+  "Doors Noclip": "Atravessar Portas",
+  "No Halt Damage": "Sem dano do Halt",
+  "No Screech Damage": "Sem dano do Screesch"
 }
