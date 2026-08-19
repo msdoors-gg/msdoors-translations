@@ -455,5 +455,8 @@
   "Doors Noclip": "Atravessar Portas",
   "No Halt Damage": "Sem dano do Halt",
   "No Screech Damage": "Sem dano do Screesch",
-  "aim mode": "modo de mira"
+  "aim mode": "modo de mira",
+  "Figure Godmode": "Modo Deus Figure",
+  "Fix godmode colision": "Corrigir colisão do godmode",
+  "Test notification": "Notificação de teste"
 }
