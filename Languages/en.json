@@ -454,5 +454,8 @@
   "Doors Noclip": "Doors Noclip",
   "No Halt Damage": "No Halt Damage",
   "No Screech Damage": "No Screech Damage",
-  "aim mode": "Aim Mode"
+  "aim mode": "Aim Mode",
+  "Figure Godmode": "Figure godmode",
+  "Fix godmode colision": "Fix godmode colision",
+  "Test notification": "Test notification"
 }
