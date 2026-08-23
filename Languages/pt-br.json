@@ -494,5 +494,7 @@
   "See Entities Path": "Ver caminho das entidades",
   "infinite Crucifix": "Crucifixo infinito",
   "Risky! You can die or lose the Crucifix. Recommended to have low ping and stable fps.": "Arriscado! Você pode morrer ou perder o Crucifixo. Recomenda-se ter ping baixo e FPS estável.",
-  "Rooms teleport": "Auto rooms[TP]"
+  "Rooms teleport": "Auto rooms[TP]",
+  "Steal Current Elevator": "Roubar o elevador atual",
+  "Steals the modifiers and settings from the elevator you are currently in and saves it as a preset.": "Copia os modificadores e configurações do elevador em que você está e os salva como uma predefinição."
 }
