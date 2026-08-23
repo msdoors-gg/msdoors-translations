@@ -494,4 +494,6 @@
   "infinite Crucifix": "infinite Crucifix",
   "Risky! You can die or lose the Crucifix. Recommended to have low ping and stable fps.": "Risky! You can die or lose the Crucifix. Recommended to have low ping and stable fps.",
   "Rooms teleport": "Auto rooms[TP]"
+  "Steal Current Elevator": "Steal Current Elevator",
+  "Steals the modifiers and settings from the elevator you are currently in and saves it as a preset.": "Steals the modifiers and settings from the elevator you are currently in and saves it as a preset."
 }
