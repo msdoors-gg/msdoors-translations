@@ -41,6 +41,12 @@
         "contributions": 1,
         "totalPercentage": 8,
         "lastUpdated": "2026-08-29T05:15:13.028Z"
+      },
+      "zh-tw": {
+        "displayName": "中文 (繁體)",
+        "contributions": 1,
+        "totalPercentage": 100,
+        "lastUpdated": "2026-08-29T05:35:22.414Z"
       }
     }
   },
