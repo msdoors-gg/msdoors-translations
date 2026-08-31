@@ -540,5 +540,6 @@
   "Teller number changed to %s": "Teller: número mudou para %s",
   " (aggressive)": " (agressivo)",
   "Teller speed changed to %s": "Teller: velocidade alterada para %s",
-  "Teller deactivating...": "Teller desativando..."
+  "Teller deactivating...": "Teller desativando...",
+  "Skip Teller": "Pular Teller"
 }
