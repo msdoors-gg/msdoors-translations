@@ -508,5 +508,19 @@
   "Esp water color": "Cor do Esp água",
   "Anti Scribbles": "Anti Scribbles",
   "Anti Alma": "Anti Alma",
-  "Auto Forget Me Not": "Olhar para folhas automáticamente"
+  "Auto Forget Me Not": "Olhar para folhas automáticamente",
+  "Anti Drones Stampede": "Anti-Drones Stampede",
+  "Auto Archives Terminal": "Auto Terminal Archives",
+  "Skip Forget Me Not": "Pular Forget-Me-Not",
+  "Guess ForgetMeNot": "Adivinhar Forget-Me-Not",
+  "Guess Forget-Me-Not": "Adivinhar Forget-Me-Not",
+  "Guessing if the room is real or fake... Wait!": "Adivinhando se a sala é real ou falsa... Espere!",
+  "Go Back! (Fake)": "Volte! (Falsa)",
+  "Go forward! (Real)": "Vá em frente! (Real)",
+  "Anti Honcho": "Anti-Honcho",
+  "Bypassed anticheat, this works until cutscene or halt": "Sistema anti-cheat burlado, funciona até cutscenes ou Halt.",
+  "Entities to be displayed": "Entidades a serem exibidas",
+  "Place to bring items": "Local de trazer items",
+  "Distance to bring items": "Distância para puxar os itens",
+  "notify_spawn_glitchfragment_start": "Starting Glitch Farm..."
 }
