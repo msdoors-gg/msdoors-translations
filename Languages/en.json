@@ -539,5 +539,6 @@
   "Teller number changed to %s": "Teller: number changed to %s",
   " (aggressive)": " (aggressive)",
   "Teller speed changed to %s": "Teller: speed changed to %s",
-  "Teller deactivating...": "Teller deactivating..."
+  "Teller deactivating...": "Teller deactivating...",
+  "Skip Teller": "Skip Teller"
 }
