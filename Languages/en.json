@@ -507,5 +507,19 @@
   "Esp water color": "Water Color Esp",
   "Anti Scribbles": "Anti Scribbles",
   "Anti Alma": "Anti Alma",
-  "Auto Forget Me Not": "Auto Look Flowers"
+  "Auto Forget Me Not": "Auto Look Flowers",
+  "Anti Drones Stampede": "Anti-Drones Stampede",
+  "Auto Archives Terminal": "Auto Terminal Archives",
+  "Skip Forget Me Not": "Skip Forget-Me-Not",
+  "Guess ForgetMeNot": "Guess Forget-Me-Not",
+  "Guess Forget-Me-Not": "Guess Forget-Me-Not",
+  "Guessing if the room is real or fake... Wait!": "Guessing if the room is real or fake... Wait!",
+  "Go Back! (Fake)": "Come back! (Fake)",
+  "Go forward! (Real)": "Go ahead! (Real)",
+  "Anti Honcho": "Anti-Honcho",
+  "Bypassed anticheat, this works until cutscene or halt": "Anti-cheat system bypassed, works even during cutscenes or Halt.",
+  "Entities to be displayed": "Entities to be displayed",
+  "Place to bring items": "Place to bring items",
+  "Distance to bring items": "Distance to bring items",
+  "notify_spawn_glitchfragment_start": "Starting Glitch Farm..."
 }
