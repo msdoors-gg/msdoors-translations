@@ -541,5 +541,8 @@
   " (aggressive)": " (agressivo)",
   "Teller speed changed to %s": "Teller: velocidade alterada para %s",
   "Teller deactivating...": "Teller desativando...",
-  "Skip Teller": "Pular Teller"
+  "Skip Teller": "Pular Teller",
+  "Storage box": "Caixa de armazenamento",
+  "Package deposit": "Deposito de Pacote",
+  "Bring StorageBox to Deposits": "Teleportar StorageBox para depósitos"
 }
