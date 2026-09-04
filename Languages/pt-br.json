@@ -549,5 +549,10 @@
   "[ RISKY ] Godmode will break this!!!": "[ RISCO ] Godmode vai quebrar isso!!!",
   "Auto Minecart": "Auto Minecart",
   "Auto Minecart Turn Distance": "Distância de Curva",
-  "Auto Minecart Duck Distance": "Distância de Agachar"
+  "Auto Minecart Duck Distance": "Distância de Agachar",
+  "toggle_notification_notifyitems": "Notificar Itens",
+  "dropdown_select_items": "Selecionar Itens",
+  "Skip Current Rooms": "Skip Current Rooms",
+  "spawned": "spawnou!",
+  "Item Detected": "Item Detectado"
 }
