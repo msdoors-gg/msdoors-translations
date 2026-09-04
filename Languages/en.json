@@ -553,5 +553,6 @@
   "dropdown_select_items": "Select Items",
   "Skip Current Rooms": "Skip Current Rooms",
   "spawned": "spawned!",
-  "Item Detected": "Item Detected"
+  "Item Detected": "Item Detected",
+  "Auto fix fov": "Auto fix fov"
 }
