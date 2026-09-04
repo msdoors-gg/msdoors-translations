@@ -554,5 +554,6 @@
   "dropdown_select_items": "Selecionar Itens",
   "Skip Current Rooms": "Pular sala atual",
   "spawned": "spawnou!",
-  "Item Detected": "Item Detectado"
+  "Item Detected": "Item Detectado",
+  "Auto fix fov": "Auto consertar fov"
 }
