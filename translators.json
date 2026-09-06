@@ -50,19 +50,6 @@
       }
     }
   },
-  "631854781606133761": {
-    "username": "xilonu",
-    "discordId": "631854781606133761",
-    "avatar": "",
-    "languages": {
-      "ru": {
-        "displayName": "Russian",
-        "contributions": 1,
-        "totalPercentage": 8,
-        "lastUpdated": "2026-10-06T05:09:41.028Z"
-      }
-    }
-  },
   "1116438122029396028": {
     "username": "woldica",
     "discordId": "1116438122029396028",
@@ -92,6 +79,32 @@
         "contributions": 3,
         "totalPercentage": 100,
         "lastUpdated": "2026-05-23T21:02:25.384Z"
+      }
+    }
+  },
+  "1540998345525428281": {
+    "username": "awesomepurplegirl",
+    "discordId": "1540998345525428281",
+    "avatar": "https://cdn.discordapp.com/avatars/1540998345525428281/6b2c96256bca8255f02e9e28fdbd59fb.png",
+    "languages": {
+      "it-it": {
+        "displayName": "IT-IT",
+        "contributions": 1,
+        "totalPercentage": 100,
+        "lastUpdated": "2026-09-06T17:00:09.417Z"
+      }
+    }
+  },
+  "631854781606133761": {
+    "username": "xilonu",
+    "discordId": "631854781606133761",
+    "avatar": "",
+    "languages": {
+      "ru": {
+        "displayName": "Russian",
+        "contributions": 1,
+        "totalPercentage": 8,
+        "lastUpdated": "2026-10-06T05:09:41.028Z"
       }
     }
   },
