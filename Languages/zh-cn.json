@@ -553,5 +553,7 @@
   "Skip Current Rooms": "跳过当前房间",
   "spawned": "已生成",
   "Item Detected": "物品检测",
-  "Steal Current Elevator": "偷当前电梯"
+  "Steal Current Elevator": "偷当前电梯",
+  "Generate Key": "生成密钥",
+  "Auto fix fov": "自动修复视角"
 }
