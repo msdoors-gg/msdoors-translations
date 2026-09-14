@@ -556,5 +556,10 @@
   "Skip Current Rooms": "Pular sala atual",
   "spawned": "spawnou!",
   "Item Detected": "Item Detectado",
-  "Auto fix fov": "Auto consertar fov"
+  "Auto fix fov": "Auto consertar fov",
+  "Auto Clear Closets": "Limpar armários automaticamente",
+  "remove fake boxes": "Remove fake boxes(client)",
+  "Delete Drones[FE]": "Delete Drones[FE]",
+  "Auto Alma": "Auto Alma",
+  "Auto equip when interact": "Equipar automaticamente ao interagir"
 }
