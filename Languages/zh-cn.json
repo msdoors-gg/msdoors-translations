@@ -555,5 +555,10 @@
   "Item Detected": "物品检测",
   "Steal Current Elevator": "偷当前电梯",
   "Generate Key": "生成密钥",
-  "Auto fix fov": "自动修复视角"
+  "Auto fix fov": "自动修复视角",
+  "Auto Clear Closets": "自动清柜子",
+  "remove fake boxes": "移除假盒子",
+  "Delete Drones[FE]": "删除Drones[FE]",
+  "Auto Alma": "自动Alma",
+  "Auto equip when interact": "自动工具"
 }
