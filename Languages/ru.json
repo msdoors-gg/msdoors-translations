@@ -555,5 +555,9 @@
   "Anti electrified water": "Вода без тока",
   "Bring StorageBox to Deposits": "Положить коробку на постамент",
   "Package deposit": "Постамент",
-  "spawned": "Готово!"
+  "spawned": "Готово!",
+  "Auto Clear Closets": "автоматическая очистка шкафов",
+  "remove fake boxes": "убрать ненастоящие коробки",
+  "Delete Drones[FE]": "убрать дронов[FE]",
+  "Auto Alma": "автоматическая алма"
 }
