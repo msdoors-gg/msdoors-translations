@@ -591,5 +591,7 @@
   "Interface": "Interface",
   "Menu": "Menu",
   "Do not activate this": "DO NOT ACTIVATE THIS",
-  "Enable moving panels": "Enable moving panels"
+  "Enable moving panels": "Enable moving panels",
+  "Anti Crusher": "Anti Crusher",
+  "Wireframe View": "Wireframe View"
 }
